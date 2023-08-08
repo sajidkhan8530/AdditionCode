@@ -5,3 +5,4 @@ a=50
 b=100
 c=a+b
 print("addition pof two number is:\n",c)
+print("you dne!")
